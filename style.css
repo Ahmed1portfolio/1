@@ -640,15 +640,15 @@ hr {
     border-radius: 15px;
     transition: 0.3s;
     cursor: pointer;
-    filter: grayscale(50%);
+/*     filter: grayscale(50%); */
     transition: 0.2s;
     width: 330px;
     height: 100%;
 }
 
-.page-4-img img:hover {
+/* .page-4-img img:hover {
     filter: grayscale(0);
-}
+} */
 
 
 /* Page-5 */
