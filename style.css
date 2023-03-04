@@ -227,7 +227,7 @@ ul.right-nav a:hover .nv-spn2::before {
         padding: 0 15px;
     }
 
-    ul.right-nav::before {
+/*     ul.right-nav::before {
         transition: 0.4s;
         content: "";
         transform: scale(6);
@@ -236,7 +236,7 @@ ul.right-nav a:hover .nv-spn2::before {
         position: absolute;
         right: 32px;
         top: -12px;
-    }
+    } */
 
     ul.right-nav a {
         color: white;
