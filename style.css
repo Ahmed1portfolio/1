@@ -640,7 +640,7 @@ hr {
     border-radius: 15px;
     transition: 0.3s;
     cursor: pointer;
-/*     filter: grayscale(50%); */
+    /* filter: grayscale(50%); */
     transition: 0.2s;
     width: 330px;
     height: 100%;
@@ -1111,29 +1111,6 @@ footer pre a:hover {
 
     header .links {
         position: relative;
-    }
-    .right-nav {
-        transition: 0.4s;
-        background-color: #00a78e;
-        position: absolute;
-        right: -17px;
-        min-width: 200px;
-        top: calc(100% + 15px);
-        border-radius: 10px;
-        z-index: 99;
-        display: none;
-    }
-
-    .right-nav::before {
-        transition: 0.4s;
-        content: "";
-        transform: scale(6);
-        /* border-radius: 10px; */
-        border-style: solid;
-        border-color: transparent transparent #00a78e transparent;
-        position: absolute;
-        right: 32px;
-        top: -12px;
     }
 
     .right-nav a {
