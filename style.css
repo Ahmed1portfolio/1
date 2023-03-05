@@ -227,7 +227,7 @@ ul.right-nav a:hover .nv-spn2::before {
         padding: 0 15px;
     }
 
-/*     ul.right-nav::before {
+    /* ul.right-nav::before {
         transition: 0.4s;
         content: "";
         transform: scale(6);
@@ -467,11 +467,11 @@ ul.right-nav a:hover .nv-spn2::before {
 }
 
 .progress-bar4 {
-    width: 50%;
+    width: 85%;
 }
 .progress-bar4-l {
     background-color: #e9ecef;
-    width: 50%;
+    width: 15%;
 }
 
 
